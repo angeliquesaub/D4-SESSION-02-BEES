@@ -1,2 +1,2 @@
 # D4-SESSION-02-BEES
-A site about bees and pilnation
+A site about bees and polination
