@@ -22,6 +22,12 @@ header {
   top: 100px;
   left: 720px;
 }
+#abeillesurfleur {
+  position: absolute;
+  width: 200px;
+  top: 970px;
+  left: 280px;
+}
 #logo {
   height: 60px;
   position:absolute;
