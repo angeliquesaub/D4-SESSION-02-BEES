@@ -153,4 +153,7 @@ footer .navigation li a {
     height: 60px;
     margin-top: 80px;
     margin-bottom: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
