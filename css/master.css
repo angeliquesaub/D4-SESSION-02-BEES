@@ -28,7 +28,7 @@ header {
   top: 970px;
   left: 280px;
 }
-#logo {
+#logo_jaune {
   height: 60px;
   position:absolute;
   margin-left: 75px;
@@ -148,4 +148,9 @@ footer .navigation li a {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 15px;
+}
+#logo_noir {
+    height: 60px;
+    margin-top: 80px;
+    margin-bottom: 25px;
 }
